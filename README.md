@@ -22,7 +22,7 @@ This project includes unit tests for the `Calculator` class, written using JUnit
 - **Execution Time:** 1.978 seconds
 - **Build Status:** `BUILD SUCCESS`
 
-![Test Results](pic.png)
+![Test Results](pic/pic.png)
 
 ---
 
